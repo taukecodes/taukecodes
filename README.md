@@ -4,6 +4,15 @@
 <h1 align="center">Hi 👋, I'm Md.Towfikul Islam Tauke</h1>
 
 
+
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=Passionate+Web+Developer;Interested+in+Bioinformatics" alt="Typing SVG" />
+  </a>
+</h2>
+
+
+
 - 🌱 I’m currently learning **JavaScript, React.js, Tailwind CSS & Bioinformatics Basics**
 
 - 👯 I’m looking to collaborate on **Frontend projects & Open Source Projects**
