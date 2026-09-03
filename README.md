@@ -2,7 +2,7 @@
   <img src="./banner.png" alt="Md.Towfikul Islam Tauke" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Md.Towfikul Islam Tauke</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 - 🌱 I’m currently learning **JavaScript, React.js, Tailwind CSS & Bioinformatics Basics**
 
