@@ -18,7 +18,7 @@ I am a passionate Frontend Web Developer focused on building clean, responsive, 
 - 🌱 I’m currently exploring **Next.js App Router, TypeScript & Full-Stack Web Development**
 - 👯 I’m looking to collaborate on **Frontend & Open Source Projects**
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS**
-- 📫 How to reach me: **dev.tit909@gmail.com**
+- 📫 How to reach me: **tauke.dev@gmail.com**
 
 ### 🌐 Connect with me:
 <p align="left">
@@ -28,8 +28,8 @@ I am a passionate Frontend Web Developer focused on building clean, responsive, 
   <a href="https://www.facebook.com/share/1pcqn5ggqe/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="mailto:dev.tit909@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Email-dev.tit909%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
+  <a href="mailto:tauke.dev@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Email-tauke.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
   </a>
 </p>
 
