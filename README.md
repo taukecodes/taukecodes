@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=550&lines=Building+Modern+Web+Applications;React+%26+Next.js+Frontend+Developer;Passionate+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=550&lines=Building+Modern+Web+Apps;TypeScript+%26+Tailwind+CSS;Passionate+Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@ I am a passionate Frontend Web Developer focused on building clean, responsive, 
 - 🌱 I’m currently exploring **Next.js App Router, TypeScript & Full-Stack Web Development**
 - 👯 I’m looking to collaborate on **Frontend & Open Source Projects**
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS**
-- 📫 How to reach me: **tauke.dev@gmail.com**
+- 📫 How to reach me: **dev.tit909@gmail.com**
 
 ### 🌐 Connect with me:
 <p align="left">
