@@ -18,7 +18,7 @@ I am a passionate Frontend Web Developer focused on building clean, responsive, 
 - 🌱 I’m currently exploring **Next.js App Router, TypeScript & Full-Stack Web Development**
 - 👯 I’m looking to collaborate on **Frontend & Open Source Projects**
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS**
-- 📫 How to reach me: **dev.tit909@gmail.com**
+- 📫 How to reach me: **tauke.dev@gmail.com**
 
 ### 🌐 Connect with me:
 <p align="left">
